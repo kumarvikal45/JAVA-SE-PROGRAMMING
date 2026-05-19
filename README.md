@@ -1,2 +1,5 @@
-# JAVA-SE-PROGRAMMING
-Foundational JAVA Concepts (Data Types, Decision Making, LOOP Controls, Function/Method, Constructor, Inheritance, Polymorphism, Lambda Expression, Exception Handling, Collections, IO, Multi-threading)
+# Incapp.Java 
+This is my 1st Git repository.
+<br>
+Author - Kumar Vikal (codelearner)
+
